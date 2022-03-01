@@ -1,5 +1,7 @@
 <?php
 
+namespace Crosf32\ControllerRefactorer;
+
 use Crosf32\ControllerRefactorer\Command\ControllerRefactorerCommand;
 use Symfony\Component\Console\Application;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
