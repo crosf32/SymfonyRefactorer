@@ -1,15 +1,15 @@
 {
   "name":         "crosf32/controllerrefactorer",
-  "description":  "Not bad!",
+  "description":  "Refactor Symfony 6 controllers",
   "keywords":     ["refactor"],
   "license":      "MIT",
   "authors": [
     {"name": "crosf32"}
   ],
   "require": {
-    "php": ">=7.2",
-    "symfony/framework-bundle": ">=5.0|6.0",
-    "symfony/console": ">=5.0|6.0"
+    "php": ">=8.0",
+    "symfony/framework-bundle": "6.0",
+    "symfony/console": "6.0"
   },
   "autoload": {
     "psr-4": {
